@@ -7,8 +7,7 @@ learning-design prototypes in one reviewer-friendly portfolio experience.
 - **Assembly X** — an alternate, more abstract expression-factory experience
 
 Both prototypes explore expression writing, grouping, the distributive property,
-equivalence, and mathematical precision. They are original portfolio samples and
-are not commissioned by or affiliated with Brilliant.
+equivalence, and mathematical precision. They are original portfolio samples.
 
 ## Project structure
 

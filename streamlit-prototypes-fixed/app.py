@@ -205,8 +205,7 @@ with st.expander("About these samples"):
     st.markdown(
         """
         These are independent, functional prototypes created to demonstrate an
-        approach to mathematics learning design. They are not commissioned work
-        and are not affiliated with Brilliant. Both experiences are designed for
+        approach to mathematics learning design. Both experiences are designed for
         exploration on a laptop or tablet; they preserve learner choices only for
         the current session.
 
